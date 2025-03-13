@@ -2,7 +2,7 @@
 tags: [Import-aaa2]
 title: "\U0001F5D3️ TODO"
 created: '2025-03-13T11:25:54.479Z'
-modified: '2025-03-13T12:19:04.293Z'
+modified: '2025-03-13T12:24:03.328Z'
 ---
 
 <h2 align="center"> 
@@ -40,14 +40,13 @@ We will update the following list after the paper is accepted.
 - [ ] Open-source datasets
 
 ## 🌅 Comparisons with others.
-
-![Interpolate start reference image.](./source/images/experiments_comparison.png)
+<img src="./source/images/experiments_comparison.png"/>
 
 ## 📊 Quantitative comparison
-![Interpolate start reference image.](./source/images/quan_comparison.png)
+<img src="./source/images/quan_comparison.png"/>
 
 ## 📊 Human evaluation test statistics
-![Interpolate start reference image.](./source/images/human_eve.png)
+<img src="./source/images/human_eve.png"/>
 
 
 
