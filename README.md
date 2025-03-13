@@ -14,7 +14,7 @@ If you like our project, please give us a star ⭐ on GitHub for latest update. 
 -->
 </h5>
 
-You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to get the video results. 
+You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to get the video results.
 
 <h3>Results of SwapAnyone.
 
@@ -25,6 +25,7 @@ You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to
 
 <img src="docs/source/images/method_pipeline.png"/>
 
+
 ## 🗓️ TODO
 We will update the following list after the paper is accepted.
 - [x] [2025-03-13] We have released our [project page](https://github.com/PKU-YuanGroup/SwapAnyone).
@@ -33,11 +34,14 @@ We will update the following list after the paper is accepted.
 - [ ] Open-source training
 - [ ] Open-source datasets
 
+
 ## 🌅 Comparisons with others.
 <img src="docs/source/images/experiments_comparison.png"/>
 
+
 ## 📊 Quantitative comparison
 <img src="docs/source/images/quan_comparison.png"/>
+
 
 ## 📊 Human evaluation test statistics
 <img src="docs/source/images/human_eve.png"/>
