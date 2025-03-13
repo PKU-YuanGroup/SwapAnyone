@@ -20,7 +20,8 @@ You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to
 
 <img src="docs/source/images/teaser.png"/>
 
-<h3>Implemetation of __SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video__
+### Implemetation of __SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video__
+
 
 <img src="docs/source/images/method_pipeline.png"/>
 
