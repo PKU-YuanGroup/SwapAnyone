@@ -14,7 +14,7 @@ If you like our project, please give us a star ⭐ on GitHub for latest update. 
 -->
 </h5>
 
-You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to get the video results.
+You can visit our [project page](https://pku-yuangroup.github.io/SwapAnyone/) to get the video results.
 
 <h3>Results of SwapAnyone.
 
