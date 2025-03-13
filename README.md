@@ -22,7 +22,6 @@ You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to
 
 ### Implemetation of _SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video_
 
-
 <img src="docs/source/images/method_pipeline.png"/>
 
 
