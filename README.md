@@ -1,10 +1,3 @@
----
-tags: [Import-aaa2]
-title: "\U0001F5D3️ TODO"
-created: '2025-03-13T11:25:54.479Z'
-modified: '2025-03-13T12:26:29.833Z'
----
-
 <h2 align="center"> 
   <a href="https://github.com/PKU-YuanGroup/SwapAnyone"> SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video</a>
 </h2>
@@ -27,7 +20,7 @@ You can visit our [project page](https://github.com/PKU-YuanGroup/SwapAnyone) to
 
 <img src="docs/source/images/teaser.png"/>
 
-<h3>Implemetation of **SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video**
+<h3>Implemetation of __SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video__
 
 <img src="docs/source/images/method_pipeline.png"/>
 
@@ -73,4 +66,3 @@ We will update the following list after the paper is accepted.
         url={https://arxiv.org/abs/2503.09154}, 
     }
 ```
-
