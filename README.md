@@ -5,7 +5,7 @@
 If you like our project, please give us a star ⭐ on GitHub for latest update.  </h5>
 <h5 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2411.20224-b31b1b.svg?logo=arXiv)(https://arxiv.org/abs/2503.09154)
+[![arXiv](https://img.shields.io/badge/Arxiv-SwapAnyone.svg?logo=arXiv)](https://arxiv.org/abs/2503.09154)
 
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/PKU-YuanGroup/SwapAnyone/blob/main/LICENSE) 
 [![GitHub repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/SwapAnyone?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/PKU-YuanGroup/SwapAnyone/stargazers)&#160;
