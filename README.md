@@ -5,13 +5,13 @@
 If you like our project, please give us a star ⭐ on GitHub for latest update.  </h5>
 <h5 align="center">
 
-<!-- [![arXiv](https://img.shields.io/badge/Arxiv-2411.20224-b31b1b.svg?logo=arXiv)](https://arxiv.org/) -->
-<!--
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/PKU-YuanGroup/NeuralGS/blob/main/LICENSE) 
-[![GitHub repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/NeuralGS?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/PKU-YuanGroup/NeuralGS/stargazers)&#160;
-[![GitHub repo forks](https://img.shields.io/github/forks/PKU-YuanGroup/NeuralGS?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/PKU-YuanGroup/NeuralGS/network)&#160;
-[![GitHub repo watchers](https://img.shields.io/github/watchers/PKU-YuanGroup/NeuralGS?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/PKU-YuanGroup/NeuralGS/watchers)&#160;
--->
+[![arXiv](https://arxiv.org/abs/2503.09154)](https://arxiv.org/)
+
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/PKU-YuanGroup/SwapAnyone/blob/main/LICENSE) 
+[![GitHub repo stars](https://img.shields.io/github/stars/PKU-YuanGroup/SwapAnyone?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/PKU-YuanGroup/SwapAnyone/stargazers)&#160;
+[![GitHub repo forks](https://img.shields.io/github/forks/PKU-YuanGroup/SwapAnyone?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/PKU-YuanGroup/SwapAnyone/network)&#160;
+[![GitHub repo watchers](https://img.shields.io/github/watchers/PKU-YuanGroup/SwapAnyone?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/PKU-YuanGroup/SwapAnyone/watchers)&#160;
+
 </h5>
 
 You can visit our [project page](https://pku-yuangroup.github.io/SwapAnyone/) to get the video results.
