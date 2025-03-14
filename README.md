@@ -54,7 +54,10 @@ We will update the following list after the paper is accepted.
 
 
 ## 🙏 Acknowledgements
-
+- AnimateDiff - https://github.com/guoyww/animatediff/
+- AnimateAnyone(official) - https://arxiv.org/pdf/2311.17117
+- AnimateAnyone(Moore-AnimateAnyone) - https://github.com/MooreThreads/Moore-AnimateAnyone
+- Stable Diffusion - https://github.com/CompVis/stable-diffusion
 
 ## BibTeX
 
